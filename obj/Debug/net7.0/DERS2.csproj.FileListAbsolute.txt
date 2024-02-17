@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\DERS2\DERS2\bin\Debug\net7.0\DERS2.exe
+C:\Users\User\source\repos\DERS2\DERS2\bin\Debug\net7.0\DERS2.deps.json
+C:\Users\User\source\repos\DERS2\DERS2\bin\Debug\net7.0\DERS2.runtimeconfig.json
+C:\Users\User\source\repos\DERS2\DERS2\bin\Debug\net7.0\DERS2.dll
+C:\Users\User\source\repos\DERS2\DERS2\bin\Debug\net7.0\DERS2.pdb
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.AssemblyInfo.cs
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.dll
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\refint\DERS2.dll
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.pdb
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\DERS2.genruntimeconfig.cache
+C:\Users\User\source\repos\DERS2\DERS2\obj\Debug\net7.0\ref\DERS2.dll
